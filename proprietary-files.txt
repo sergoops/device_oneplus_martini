@@ -15,6 +15,10 @@ odm/etc/acdbdata/Speaker_cal.acdb
 odm/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel_20820.so
 odm/lib/rfsa/adsp/libarcsoft_portraitsn_hvx_skel_20820.so
 
+# Audio
+odm/lib/lib_lvacfs.so
+odm/lib/liblvacfs_wrapper.so
+
 # Audio Firmware
 odm/firmware/tfa98xx.cnt
 
