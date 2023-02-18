@@ -117,6 +117,7 @@ odm/etc/sensor/config/lahaina_qrd_lsm6dso.json
 odm/etc/sensor/config/lahaina_qrd_mmc56x3x.json
 odm/etc/sensor/config/lahaina_qrd_sx933x_0.json
 odm/etc/sensor/sensor_config.json
+odm/etc/sensor.cfg
 
 # WiFi
 odm/etc/wifi/bdwlan.elf
