@@ -10,7 +10,7 @@ include device/oneplus/sm8350-common/BoardConfigCommon.mk
 DEVICE_PATH := device/oneplus/martini
 
 # Display
-TARGET_SCREEN_DENSITY := 450
+TARGET_SCREEN_DENSITY := 420
 
 # Kernel
 TARGET_KERNEL_ADDITIONAL_FLAGS := CONFIG_OPLUS_CHG_OP9RT_PMIC_VOOCPHY=y
